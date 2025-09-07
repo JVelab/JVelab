@@ -59,8 +59,8 @@ Me apasiona enfrentar desafíos técnicos y aportar también en la parte **creat
 
 ## 📊 Estadísticas de GitHub  
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Sajadev404&show_icons=true&theme=radical)](https://github.com/JVelab)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadev404&layout=compact&theme=radical)](https://github.com/JVelab)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=JVelab&show_icons=true&theme=radical)](https://github.com/JVelab)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVelab&layout=compact&theme=radical)](https://github.com/JVelab)  
 
 ---
 
