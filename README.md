@@ -1,4 +1,4 @@
-# 👨‍💻 José Luis Vela Borrego  
+# 👨‍💻 José Luis Vela
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/jose-luis-vela-borrego-16a53aa0)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-En%20Construcción-green)]()  
