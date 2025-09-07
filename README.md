@@ -59,15 +59,15 @@ Me apasiona enfrentar desafíos técnicos y aportar también en la parte **creat
 
 ## 📊 Estadísticas de GitHub  
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Sajadev404&show_icons=true&theme=radical)](https://github.com/Sajadev404)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadev404&layout=compact&theme=radical)](https://github.com/Sajadev404)  
+[![Stats](https://github-readme-stats.vercel.app/api?username=Sajadev404&show_icons=true&theme=radical)](https://github.com/JVelab)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajadev404&layout=compact&theme=radical)](https://github.com/JVelab)  
 
 ---
 
 ## 🤝 Conectemos  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-luis-vela-borrego-16a53aa0)  
-- 📧 Email: **tuemail@example.com**  
+- 📧 Email: Jlvela94@gmail.com  
 - 🌐 Portfolio: *En construcción*  
 
 ---
