@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mí  
 
-Soy **Desarrollador Full-Stack** con experiencia en **JavaScript, Python, React y Next.js**, enfocado en crear soluciones web **escalables, eficientes y centradas en el usuario**.  
+Soy **Desarrollador Full-Stack** con conocimientos en **JavaScript, Python, React y Next.js**, enfocado en crear soluciones web **escalables, eficientes y centradas en el usuario**.  
 Me apasiona enfrentar desafíos técnicos y aportar también en la parte **creativa y estratégica** de los proyectos.  
 
 - 🔹 Experiencia liderando equipos de desarrollo (Challeng3.me)  
