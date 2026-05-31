@@ -60,7 +60,7 @@ Me apasiona enfrentar desafíos técnicos y aportar también en la parte **creat
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-luis-vela-borrego-16a53aa0)  
 - 📧 Email: Jlvela94@gmail.com  
-- 🌐 Portfolio: *En construcción*  
+- 🌐 Portfolio: https://porfolio-2026-green.vercel.app/  
 
 ---
 ⭐ Siempre abierto a colaborar en proyectos interesantes, aprender nuevas tecnologías y compartir conocimiento.
