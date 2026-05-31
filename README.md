@@ -1,7 +1,7 @@
 # 👨‍💻 José Luis Vela
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/jose-luis-vela-borrego-16a53aa0)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-En%20Construcción-green)]()  
+[![Portfolio](https://img.shields.io/badge/Portfolio-2026-green)](https://porfolio-2026-green.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-Contacto-red?logo=gmail)](mailto:jlvela94@gmail.com)  
 
 ---
